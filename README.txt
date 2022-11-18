@@ -1,0 +1,1 @@
+This repository documents the code to reproduce the 'optimal petting' (name TBC) paper.  
